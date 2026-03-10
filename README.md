@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 👋 About Me<br><br>Hi, I'm Abhinandan Khot!<br>I'm passionate about technology, creativity, and building useful digital projects. I enjoy learning new tools, experimenting with ideas, and turning them into practical solutions.<br><br>💻 Interested in Programming, Web Development, and AI tools<br>🚀 Currently learning and improving my coding and project-building skills<br>🎨 I also enjoy designing creative visuals and posters using tools like Canva<br>📚 Always exploring new technologies and ways to improve<br>🤝 Open to collaboration and learning from the developer community<br><br>🌱 Current Goals<br><br> Build more real-world projects<br> Improve my development and problem-solving skills<br> Contribute to open-source projects<br><br>📫 Connect With Me<br><br>Feel free to explore my repositories and connect with me!<br>
 
 
